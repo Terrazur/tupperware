@@ -1,0 +1,83 @@
+.side a:hover, .sidesub a:hover, .navbar-inverse .navbar-brand:hover{
+    text-decoration: none;
+    transition: 0.5s;
+    color: gold;
+}
+
+nav .navbar, .navbar-inverse{
+    border-radius: 0px;
+    margin-bottom: 0px;
+    border-color: transparent; 
+}
+
+.account{
+    width: 90px;
+    height: auto;
+    min-width: 90px;
+    max-width: 100%;
+}
+
+.side{
+    font-size: 18px;
+}
+
+.side a, .sidesub a{
+    text-decoration: none;
+}
+
+#marg{
+    margin-top: 20px;
+}
+
+nav{
+    background-color: #222;
+}
+
+.side, .sidesub{
+    color: white;  
+}
+
+.side a, .sidesub a{
+    color: white;
+}
+
+.navbar-inverse .navbar-brand{
+    color: white;
+}
+
+#sidenav{
+	padding-top: 50px;
+    background-color: #222;
+    height: 100%;
+    position: fixed;
+}
+
+.vertical{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#table-1{
+    color: white;
+    border-top-left-radius: 15px; 
+    background-color: #006064;
+}
+
+#header-1{
+    background-color: #00BCD4
+}
+
+.rows{
+    padding-top: 5px; 
+    padding-bottom: 5px;
+}
+
+#table-2{
+    background-color: #827717;
+    border-top-right-radius: 15px;
+    color: white;
+}
+
+#header-2{
+    background-color: #AFB42B;
+}
